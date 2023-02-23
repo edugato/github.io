@@ -1,7 +1,7 @@
 .title{
     color:rgb(green);
     width: 50%;
-    margin-left: 250px;
+    margin-left: 300px;
     }
 
 .titulos{
@@ -23,5 +23,5 @@ border: 10px solid yellowgreen;
 padding: 5px;
 width: 1500px;
 height: 1500px;
-text-align: left;
+text-align: center;
 }
