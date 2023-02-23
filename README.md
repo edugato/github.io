@@ -29,7 +29,8 @@
       <li> Domicilio: Heroes Civiles 1675 </li>
       <li> e-mail: edugatoperez@gmail.com </li> 
       <li> Contacto: (54)3794673115 </li>
-      
+        </ul>
+    </div>
  
 
     <div class="titulos">
