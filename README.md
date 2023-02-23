@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -30,8 +29,7 @@
       <li> Domicilio: Heroes Civiles 1675 </li>
       <li> e-mail: edugatoperez@gmail.com </li> 
       <li> Contacto: (54)3794673115 </li>
-      </ul>
-     </div>
+      
  
 
     <div class="titulos">
@@ -48,13 +46,11 @@
     <div class="titulos">
        <h2>  Experiencia laboral: </h2>
     </div> 
-    <div class="textos"
+    <div class="textos">
      <ul>
       <li>1975-1985: <strong>En el paro</strong></li>
       <li>1965-1975: <strong>Cazavillanos y demás chusma</strong></li>
       <li>1962-1965: <strong>Aprendiz de superhéroe</strong></li>
      </ul>
     </div>
-  </div>
-</body>
-</html>
+  
