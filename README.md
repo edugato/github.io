@@ -15,14 +15,11 @@
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
 
-    <img src="C:\Users\Flia Perez Abello\Desktop\2.jpg"></img>
-    
-
     <div class="titulos">
       <h2> Datos Personales </h2>
     </div>
     
-    <div class="textos"
+    <div class="textos">
       <ul>
       <li> Nombres: Eduardo Alejandro </li>
       <li> Apellidos: Perez Belingheri </li>
@@ -40,7 +37,7 @@
     <div class="titulos">
     <h2>  Formacion Academica: </h2>
     </div> 
-    <div class="textos"
+    <div class="textos">
        <ul>
         <li>1956-1961: <strong>Universidad del Espantapájaros</strong></li>
         <li>1952-1956: <strong>Instituto de Dos Caras</strong></li>
