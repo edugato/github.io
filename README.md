@@ -36,9 +36,15 @@
     </div> 
     <div class="textos">
        <ul>
-        <li>1956-1961: <strong>Universidad del Espantapájaros</strong></li>
-        <li>1952-1956: <strong>Instituto de Dos Caras</strong></li>
-        <li>1944-1952:  <strong>Escuela Primaria del Joker</strong></li>
+        <li>1995-2000: <strong>Ingeniería de Sistemas de Información</strong></li>
+        <li> Universidad Tecnológica Nacional Resistencia</li>
+        <li> Cursado hasta 3er año - Sin Titulo</li>
+        <li>2007-2008: <strong>CCNA Cisco Certified Network Associated de CISCO</strong></li>
+        <li> Universidad Tecnológica Nacional Resistencia</li>
+        <li>2009:  <strong>Administración de Redes Informáticas – IT Essentials II: Network Operating Systems</strong></li>
+        <li> Universidad Tecnológica Nacional Resistencia</li>
+        <li>2012:  <strong>Reparador de PC y Técnico en Redes</strong></li>
+        <li> Centro de Capacitación Informática</li>
        </ul>
       </div>
 
