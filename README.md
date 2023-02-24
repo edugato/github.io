@@ -33,7 +33,7 @@
  
 
     <div class="titulos">
-    <h2>  Formacion Academica: </h2>
+    <h2>  Formacion Academica </h2>
     </div> 
     <div class="textos">
        <ul>
@@ -51,7 +51,7 @@
 
 
     <div class="titulos">
-       <h2>  Experiencia laboral: </h2>
+       <h2>  Experiencia laboral </h2>
     </div> 
     <div class="textos">
      <ul>
