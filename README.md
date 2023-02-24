@@ -38,13 +38,13 @@
     </div> 
     <div class="textos">
        <ul>
-        <li>2012:  <strong>Reparador de PC y Técnico en Redes</strong></li>
+        <li><strong>2012:  Reparador de PC y Técnico en Redes</strong></li>
                       <li> Centro de Capacitación Informática</li>
-        <li>2009:  <strong>Administración de Redes Informáticas – IT Essentials II: Network Operating Systems</strong></li>
+        <li><strong>2009:  Administración de Redes Informáticas – IT Essentials II: Network Operating Systems</strong></li>
                       <li> Universidad Tecnológica Nacional Resistencia</li>
-        <li>2007-2008: <strong>CCNA Cisco Certified Network Associated de CISCO</strong></li>
+        <li><strong>2007-2008: CCNA Cisco Certified Network Associated de CISCO</strong></li>
                           <li> Universidad Tecnológica Nacional Resistencia</li>
-        <li>1995-2000: <strong>Ingeniería de Sistemas de Información</strong></li>
+        <li><strong>1995-2000: Ingeniería de Sistemas de Información</strong></li>
                           <li> Universidad Tecnológica Nacional Resistencia</li>
                           <li> Cursado hasta 3er año - Sin Titulo</li>
        </ul>
@@ -56,24 +56,24 @@
     </div> 
     <div class="textos">
      <ul>
-         <li>2005:actual <strong>Ministerio Secretaría General de Gobernación </strong></li>
+         <li><strong>2005-actual: Ministerio Secretaría General de Gobernación </strong></li>
                         <li><strong>Dirección de Administración y Personal</strong></li>
                         <li> Auxiliar Administrativo</li>
-         <li>2015:actual <strong>TEC Informática – 4 Tintas </strong></li>
+         <li><strong>2015-actual: TEC Informática – 4 Tintas </strong></li>
                         <li> Sede Lavalle 1255</li>
                         <li> Servicio técnico </li>
                         <li> Reparación y mantenimiento de PC, notebooks y netbooks</li>
-         <li>2012-2015: <strong>Uno Informatica </strong></li>
+         <li><strong>2012-2015: Uno Informatica </strong></li>
                         <li> Socio Gerente Sede Av. Cazadores Correntinos</li>
                         <li> Socio Gerente Sede Av. España</li>
                         <li> Jefe Servicio técnico</li>
-          <li>2008-2009: <strong>2B Estudio de Diseño </strong></li>
+          <li><strong>2008-2009: 2B Estudio de Diseño </strong></li>
                         <li> Programador Web PHP</li>
-          <li>2004-2005: <strong>Ciber Silva </strong></li>
+          <li><strong>2004-2005: Ciber Silva </strong></li>
                         <li> Socio Propietario Empresa de Ciber-Internet</li>
-          <li>1997-2004: <strong>Oscar Pedroso S.A.</strong></li>
+          <li><strong>1997-2004: Oscar Pedroso S.A.</strong></li>
                         <li> Operador de Sistemas en Empresa Subcontratista de Aguas de Corrientes S.A.</li>
-          <li>1995-1997: <strong>Gobelco S.A.</strong></li>
+          <li><strong>1995-1997: Gobelco S.A.</strong></li>
                         <li> Atención al público en empresa de electricidad</li>
       </ul>
     </div>
