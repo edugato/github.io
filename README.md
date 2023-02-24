@@ -29,7 +29,7 @@
       <li> Domicilio: Heroes Civiles 1675 </li>
       <li> e-mail: edugatoperez@gmail.com </li> 
       <li> Contacto: (54)3794673115 </li>
-        </ul>
+      </ul>
     </div>
  
 
@@ -44,6 +44,7 @@
        </ul>
       </div>
 
+
     <div class="titulos">
        <h2>  Experiencia laboral: </h2>
     </div> 
@@ -54,4 +55,5 @@
       <li>1962-1965: <strong>Aprendiz de superhéroe</strong></li>
      </ul>
     </div>
-  
+  </div>
+</body>
