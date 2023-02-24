@@ -20,17 +20,15 @@
     
     <div class="textos">
       <ul>
-      <li> Nombres: Eduardo Alejandro </li>
-      <li> Apellidos: Perez Belingheri </li>
-      <li> Nro documento: 24798571 </li>
-      <li> Fecha de nac. : 22/09/1975
-      <li> Provincia: Corrientes Capital </li>
-      <li> Nacionalidad: Argentino </li>
-      <li> Domicilio: Heroes Civiles 1675 </li>
-      <li> e-mail: edugatoperez@gmail.com </li> 
-      <li> Contacto: (54)3794673115 </li>
-      </ul>
-     </div>
+      <li> Nombres: <strong>Eduardo Alejandro</strong> </li>
+      <li> Apellidos: <strong>Perez Belingheri</strong> </li>
+      <li> Nro documento: <strong>24798571</strong> </li>
+      <li> Fecha de nac. : <strong>22/09/1975</strong></li>
+      <li> Provincia: <strong>Corrientes Capital</strong> </li>
+      <li> Domicilio: <strong>Heroes Civiles 1675</strong> </li>
+      <li> e-mail: <strong>edugatoperez@gmail.com</strong> </li> 
+       </ul>
+      </div>   
  
 
     <div class="titulos">
