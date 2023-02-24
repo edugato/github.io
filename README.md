@@ -30,7 +30,7 @@
       <li> e-mail: edugatoperez@gmail.com </li> 
       <li> Contacto: (54)3794673115 </li>
       </ul>
-    </div>
+     </div>
  
 
     <div class="titulos">
