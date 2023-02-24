@@ -1,20 +1,20 @@
 .title{
     color:rgb(green);
-    width: 50%;
+    width: 60%;
     margin-left: 300px;
     }
 
 .titulos{
     color: rgb(blue);
-    width: 40%;
+    width: 50%;
     margin-left: 1px;
 }
 
 .textos{  
     color: rgb(green);
-    width: 40%;
+    width: 50%;
     margin-left: 1px;
-    text-align: justify;
+    text-align: left;
 }
 
 .body{
