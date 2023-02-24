@@ -12,7 +12,7 @@
 
     <div class="title">
       <h1> Curriculum Vitae Eduardo Perez </h1>
-      <img src="https://github.com/edugato/github.io/blob/main/edu2.jpg"/>
+      <img src="https://github.com/edugato/github.io/blob/main/edu3.jpg"/>
     </div>   
     
     
