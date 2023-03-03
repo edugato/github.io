@@ -29,12 +29,12 @@
 }
 
 .body{
-    padding: 5px;
+    padding: 1px;
     width: 1500px;
     height: 1500px;
     text-align: left;
     background-image: url("muro-hormigon-gris.jpg");
     background-repeat: repeat;
-    background-position: bottom left;
+    background-position: 50% 50%;
     background-size: contain; 
 }
