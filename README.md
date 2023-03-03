@@ -15,6 +15,11 @@
     </div>   
     
     
+    <img src="edu2.jpg"
+    width="300" height="150"
+    alt="Eduardo Perez" />
+    
+    
     <div class="titulos">
       <h2> Datos Personales </h2>
     </div>
