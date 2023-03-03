@@ -14,7 +14,7 @@
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
     
-    <div class="image">
+    <div class="imagen">
       <img src="edu3.jpg"
     alt="Eduardo Perez" />
     </div>   
