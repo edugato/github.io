@@ -1,29 +1,32 @@
 .imagen{
-    border= 2px solid black;
+    border= 5px solid black;
     height= 50px;
     width= 50px;
-    margin-left: 250px;
+    margin-left: 150px;
     }
 
 .title{
     color:blue;
-    width: 60%;
+    width: 1000px;
+    height: 1500px;
     text-align: center;
     }
 
 .titulos{
     color: blue;
-    width: 50%;
+    width: 1000px;
+    height: 1500px;
     margin-left: 100px;
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
 }
 
 .textos{  
     color: brown;
-    width: 50%;
+    width: 1000px;
+    height: 1500px;
     margin-left: 100px;
-    text-align: center;
+    text-align: left;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
