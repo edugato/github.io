@@ -4,7 +4,7 @@
     }
 
 .title{
-    color:white;
+    color: white;
     width: 70%;
     text-align: center;
     }
@@ -19,7 +19,7 @@
 .textos{  
     color: green;
     width: 50%;
-    margin-left: 100px;
+    margin-left: 1px;
     text-align: left;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
