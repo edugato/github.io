@@ -15,7 +15,7 @@
     </div>   
     
     <div class="imagen">
-      <img src="edu3.jpg"
+      <img src="edu.jpg"
     alt="Eduardo Perez" />
     </div>   
     
