@@ -6,13 +6,6 @@
     ;
 }
 
-section {
-    background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: contain; 
-        }
-
 .title{
     color:blue;
     width: 60%;
@@ -36,8 +29,12 @@ section {
 }
 
 .body{
-padding: 5px;
-width: 1500px;
-height: 1500px;
-text-align: left;
+    padding: 5px;
+    width: 1500px;
+    height: 1500px;
+    text-align: left;
+    background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain; 
 }
