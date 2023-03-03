@@ -7,15 +7,13 @@
 
 .title{
     color:blue;
-    width: 1000px;
-    height: 1500px;
+    width: 60%;
     text-align: center;
     }
 
 .titulos{
     color: blue;
-    width: 1000px;
-    height: 1500px;
+    width: 50%;
     margin-left: 100px;
     border: 2px solid black;
     text-align: center;
@@ -23,8 +21,7 @@
 
 .textos{  
     color: brown;
-    width: 1000px;
-    height: 1500px;
+    width: 50%;
     margin-left: 100px;
     text-align: left;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
