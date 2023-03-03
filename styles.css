@@ -34,7 +34,7 @@
     height: 1500px;
     text-align: left;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center center;
-    background-size: contain; 
+    background-size: cover; 
 }
