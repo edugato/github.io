@@ -1,6 +1,6 @@
 .imagen{
     text-align: center;
-    border: 2px solid black;
+    border: 1px solid black;
     }
 
 .title{
@@ -16,7 +16,7 @@
     }
 
 .textos{  
-    color: solid black;
+    color: yellow;
     width: 100%;
     margin-left: 1px;
     text-align: center;
