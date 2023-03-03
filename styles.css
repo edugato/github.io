@@ -16,10 +16,10 @@
     }
 
 .textos{  
-    color: yellow;
+    color: solid white;
     width: 100%;
-    margin-left: 1px;
-    text-align: center;
+    margin-left: 150px;
+    text-align: left;
     font-family: Helvetica, Arial, sans-serif;
 }
 
