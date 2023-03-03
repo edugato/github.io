@@ -15,7 +15,7 @@
     </div>   
     
     <a href="paginaweb.html">
-    <img src="https://github.com/edugato/github.io/blob/main/edu3.jpg"
+    <img src="edu3.jpg"
     width="300" height="150"
     alt="Eduardo Perez" />
     </a>
