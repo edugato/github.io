@@ -14,11 +14,11 @@
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
     
-    <a href="paginaweb.html">
+    
     <img src="edu3.jpg"
-    width="300" height="150"
+    width="150" height="150" border=2x
     alt="Eduardo Perez" />
-    </a>
+    
     
     
     <div class="titulos">
