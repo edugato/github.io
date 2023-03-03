@@ -1,6 +1,6 @@
 .imagen{
     border= 1px solid black;
-    margin-left: 300px;
+    text-align: center;
     }
 
 .title{
@@ -19,7 +19,7 @@
 .textos{  
     color: green;
     width: 50%;
-    margin-left: 200px;
+    margin-left: 100px;
     text-align: left;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -28,9 +28,8 @@
     padding: 1px;
     width: 1000px;
     height: 1500px;
-    text-align: right;
+    text-align: center;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
     background-repeat: repeat;
-    background-size: 1000px;
     background-size: contain; 
 }
