@@ -35,5 +35,6 @@
     text-align: left;
     background-image: url("muro-hormigon-gris.jpg");
     background-repeat: repeat;
+    background-size: 1000px;
     background-size: contain; 
 }
