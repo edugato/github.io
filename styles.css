@@ -9,7 +9,7 @@
 .title{
     color:blue;
     width: 60%;
-    margin-left: 200px;
+    text-align: center;
     }
 
 .titulos{
@@ -24,7 +24,7 @@
     color: brown;
     width: 50%;
     margin-left: 1px;
-    text-align: left;
+    text-align: center;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -32,7 +32,7 @@
     padding: 1px;
     width: 1000px;
     height: 1500px;
-    text-align: left;
+    text-align: center;
     background-image: url("muro-hormigon-gris.jpg");
     background-repeat: repeat;
     background-size: 1000px;
