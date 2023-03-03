@@ -5,20 +5,18 @@
 
 .title{
     color: white;
-    width: 70%;
-    text-align: center;
+    width: 80%;
     }
 
 .titulos{
     color: white;
-    width: 60%;
+    width: 70%;
     border: 2px solid black;
-    text-align: center;
-}
+    }
 
 .textos{  
     color: green;
-    width: 50%;
+    width: 60%;
     margin-left: 1px;
     text-align: left;
     font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
