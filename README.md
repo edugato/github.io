@@ -77,8 +77,6 @@
                         <li> Socio Propietario Empresa de Ciber-Internet</li>
           <li><strong>1997-2004: Oscar Pedroso S.A.</strong></li>
                         <li> Operador de Sistemas en Empresa Subcontratista de Aguas de Corrientes S.A.</li>
-          <li><strong>1995-1997: Gobelco S.A.</strong></li>
-                        <li> Atención al público en empresa de electricidad</li>
-      </ul>
+       </ul>
     </div>
   
