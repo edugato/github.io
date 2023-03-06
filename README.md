@@ -8,7 +8,7 @@
 </head>
 
 <div class="imagen">
-      <img src="edu2.jpg"
+      <img src="edu4.jpg"
     alt="Eduardo Perez" />
     </div>   
 
