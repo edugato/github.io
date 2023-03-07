@@ -10,8 +10,7 @@
 <body>
 <div class="body">
      <div class="imagen">
-      <img src="edu4.jpg"
-           alt="Eduardo Perez" />
+      <img src="edu4.jpg" alt="Eduardo Perez" />
      </div>  
     
     <div class="title">
@@ -48,7 +47,7 @@
                           <li> Universidad Tecnológica Nacional Resistencia</li>
         <li><strong>1995-2000: Ingeniería de Sistemas de Información</strong></li>
                           <li> Universidad Tecnológica Nacional Resistencia</li>
-                          <li> Cursado hasta 3er año - Sin Titulo</li>
+                          Cursado hasta 3er año - Sin Titulo
        </ul>
       </div>
 
@@ -60,21 +59,21 @@
      <ul>
          <li><strong>2005-actual: Ministerio Secretaría General de Gobernación </strong></li>
                         <li><strong>Dirección de Administración y Personal</strong></li>
-                        <li> Auxiliar Administrativo</li>
+                         Auxiliar Administrativo
          <li><strong>2015-actual: TEC Informática – 4 Tintas </strong></li>
                         <li> Sede Lavalle 1255</li>
                         <li> Servicio técnico </li>
-                        <li> Reparación y mantenimiento de PC, notebooks y netbooks</li>
+                         Reparación y mantenimiento de PC, notebooks y netbooks
          <li><strong>2012-2015: Uno Informatica </strong></li>
                         <li> Socio Gerente Sede Av. Cazadores Correntinos</li>
                         <li> Socio Gerente Sede Av. España</li>
-                        <li> Jefe Servicio técnico</li>
+                         Jefe Servicio técnico
           <li><strong>2008-2009: 2B Estudio de Diseño </strong></li>
-                        <li> Programador Web PHP</li>
+                        Programador Web PHP
           <li><strong>2004-2005: Ciber Silva </strong></li>
-                        <li> Socio Propietario Empresa de Ciber-Internet</li>
+                        Socio Propietario Empresa de Ciber-Internet
           <li><strong>1997-2004: Oscar Pedroso S.A.</strong></li>
-                        <li> Operador de Sistemas en Empresa Subcontratista de Aguas de Corrientes S.A.</li>
+                         Operador de Sistemas en Empresa Subcontratista de Aguas de Corrientes S.A.
        </ul>
     </div>
   
