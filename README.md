@@ -6,12 +6,13 @@
     <title>Curriculum vitae de Eduardo Perez</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
- <div class="imagen">
-      <img src="edu4.jpg"
-    alt="Eduardo Perez" />
-    </div>   
+ 
 <body>
 <div class="body">
+     <div class="imagen">
+      <img src="edu4.jpg"
+           alt="Eduardo Perez" />
+     </div>  
     
     <div class="title">
       <h1> Curriculum Vitae Eduardo Perez </h1>
