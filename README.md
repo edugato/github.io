@@ -7,11 +7,6 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
-<div class="imagen">
-      <img src="edu4.jpg"
-    alt="Eduardo Perez" />
-    </div>   
-
 <body>
 <div class="body">
 
@@ -19,7 +14,11 @@
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
     
-    
+    <div class="imagen">
+      <img src="edu4.jpg"
+    alt="Eduardo Perez" />
+    </div>   
+
     <div class="titulos">
       <h2> Datos Personales </h2>
     </div>
