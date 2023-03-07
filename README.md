@@ -9,16 +9,16 @@
 
 <body>
 <div class="body">
-
-    <div class="title">
-      <h1> Curriculum Vitae Eduardo Perez </h1>
-    </div>   
     
     <div class="imagen">
       <img src="edu4.jpg"
     alt="Eduardo Perez" />
     </div>   
 
+    <div class="title">
+      <h1> Curriculum Vitae Eduardo Perez </h1>
+    </div>   
+    
     <div class="titulos">
       <h2> Datos Personales </h2>
     </div>
