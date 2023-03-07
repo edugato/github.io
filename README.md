@@ -9,13 +9,14 @@
  
 <body>
 <div class="body">
-     <div class="imagen">
-      <img src="edu4.jpg" alt="Eduardo Perez" />
-     </div>  
-    
+       
     <div class="title">
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
+    
+    <div class="imagen">
+      <img src="edu4.jpg" alt="Eduardo Perez" />
+     </div>  
     
     <div class="titulos">
       <h2> Datos Personales </h2>
@@ -62,8 +63,7 @@
                          Auxiliar Administrativo
          <li><strong>2015-actual: TEC Informática – 4 Tintas </strong></li>
                         <li> Sede Lavalle 1255</li>
-                        <li> Servicio técnico </li>
-                         Reparación y mantenimiento de PC, notebooks y netbooks
+                        Reparación y mantenimiento de PC, notebooks y netbooks
          <li><strong>2012-2015: Uno Informatica </strong></li>
                         <li> Socio Gerente Sede Av. Cazadores Correntinos</li>
                         <li> Socio Gerente Sede Av. España</li>
