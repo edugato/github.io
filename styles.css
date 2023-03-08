@@ -38,7 +38,7 @@
 
 .body{
     padding: 1px;
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
