@@ -28,8 +28,6 @@
     width: 100%;
     display: block;
     margin-align: center;
-    margin-left: auto;
-    margin-right: auto;
     font-family: Calibri;
     font-size: 6;
 }
@@ -38,8 +36,6 @@
     padding: 1px;
     display: block;
     margin-align: center;
-    margin-left: auto;
-    margin-right: auto;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
     background-repeat: repeat;
     background-size: contain; 
