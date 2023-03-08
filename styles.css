@@ -13,6 +13,7 @@
     border: 2px solid black;
     font-family: Arial Black;
     font-size: 7;
+    display: block;
     justify-content: center;
     }
 
@@ -22,6 +23,7 @@
     border: 2px solid black;
     font-family: Century;
     font-size: 6;
+    display: block;
     justify-content: center;
     }
 
@@ -31,13 +33,14 @@
     font-family: Calibri;
     font-size: 6;
     min-height: 400px;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     }
 
 .body{
     padding: 1px;
+    display: block;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
     background-repeat: repeat;
     background-size: contain; 
