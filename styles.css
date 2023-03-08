@@ -13,7 +13,6 @@
     border: 2px solid black;
     font-family: Arial Black;
     font-size: 7;
-    display: block;
     text-align: center;
     }
 
@@ -23,7 +22,6 @@
     border: 2px solid black;
     font-family: Century;
     font-size: 6;
-    display: block;
     text-align: center;
     }
 
@@ -32,9 +30,7 @@
     width: 100%;
     font-family: Calibri;
     font-size: 6;
-    display: block;
-    text-align: center;
-}
+    }
 
 .body{
     padding: 1px;
