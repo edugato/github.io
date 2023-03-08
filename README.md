@@ -9,7 +9,8 @@
  
 <body>
 <div class="body">
-      <div class="imagen">
+
+     <div class="imagen">
       <img src="edu4.jpg" alt="Eduardo Perez">
      </div>  
      
@@ -17,7 +18,6 @@
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
     
-     
     <div class="titulos">
       <h2> Datos Personales </h2>
     </div>
