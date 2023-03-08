@@ -10,7 +10,7 @@
 <body>
 <div class="body">
       <div class="imagen">
-      <img src="edu4.jpg" alt="Eduardo Perez" />
+      <img src="edu4.jpg" alt="Eduardo Perez" align=”middle”/>
      </div>  
      
     <div class="title">
