@@ -13,7 +13,6 @@
     border: 2px solid black;
     font-family: Arial Black;
     font-size: 7;
-    display: flex;
     justify-content: center;
     }
 
@@ -23,7 +22,6 @@
     border: 2px solid black;
     font-family: Century;
     font-size: 6;
-    display: flex;
     justify-content: center;
     }
 
