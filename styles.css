@@ -27,6 +27,7 @@
     color: white;
     width: 100%;
     display: block;
+    margin-align: center;
     margin-left: auto;
     margin-right: auto;
     font-family: Calibri;
@@ -36,6 +37,7 @@
 .body{
     padding: 1px;
     display: block;
+    margin-align: center;
     margin-left: auto;
     margin-right: auto;
     background-image: url("textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.avif");
