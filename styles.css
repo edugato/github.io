@@ -13,6 +13,9 @@
     border: 2px solid black;
     font-family: Arial Black;
     font-size: 7;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 .titulos{
@@ -21,6 +24,9 @@
     border: 2px solid black;
     font-family: Century;
     font-size: 6;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 .textos{  
@@ -28,6 +34,9 @@
     width: 100%;
     font-family: Calibri;
     font-size: 6;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .body{
