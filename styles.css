@@ -1,8 +1,7 @@
 .imagen{
     border: 2px solid black;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    justify-content: center;
     }
 
 .title{
