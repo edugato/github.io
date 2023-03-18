@@ -25,11 +25,11 @@
     }
 
 .textos{  
-    color: red;
+    color: brown;
     width: 100%;
     font-family: Calibri;
     font-size: 9;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
     }
