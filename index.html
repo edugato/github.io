@@ -7,12 +7,29 @@
     <title>Curriculum vitae de Eduardo Perez</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+    <div id="flotante" style="display:none;">CONTENIDO A OCULTAR/MOSTRAR</div>
+    <script languague="javascript">
+        function mostrar() {
+            div = document.getElementById('flotante');
+            div.style.display = '';
+        }
+
+        function cerrar() {
+            div = document.getElementById('flotante');
+            div.style.display = 'none';
+        }
+</script>
  
     
 <body>
 <div class="body">
     
-     
+    <p><a href="javascript:mostrar();">Mostrar</a></p>
+<div id="flotante" style="display:none;">
+     <div id="close"><a href="javascript:cerrar();">cerrar</a></div>
+     Este es un div ocultar
+</div>
+         
     <div class="title">
       <h1> Curriculum Vitae Eduardo Perez </h1>
     </div>   
