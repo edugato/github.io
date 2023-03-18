@@ -5,7 +5,7 @@
     }
 
 .title{
-    color: white;
+    color: blue;
     width: 100%;
     border: 2px solid black;
     font-family: Arial Black;
@@ -15,7 +15,7 @@
     }
 
 .titulos{
-    color: white;
+    color: red;
     width: 100%;
     border: 2px solid black;
     font-family: Century;
@@ -25,7 +25,7 @@
     }
 
 .textos{  
-    color: white;
+    color: red;
     width: 100%;
     font-family: Calibri;
     font-size: 9;
