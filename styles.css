@@ -10,7 +10,9 @@
 
 h1 {
   color: #4caf50;
-
+  color: white;
+  font-family: Arial Black;
+  font-size: 14;
 }
 
 p {
