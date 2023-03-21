@@ -73,10 +73,10 @@ p {
     }
 
 .textos{  
-    color: brown;
+    color: white;
     width: 100%;
-    font-family: Calibri;
-    font-size: 9;
+    font-family: Century;
+    font-size: 12;
     display: flex;
     align-items: center;
     justify-content: center;
