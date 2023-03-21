@@ -88,6 +88,6 @@ p {
     margin-left: auto;
     margin-right: auto;
     background-image: url("Fondos-web-300x188.jpg");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: contain; 
 }
