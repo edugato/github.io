@@ -9,15 +9,15 @@
 }
 
 h1 {
-  color: brown;
+  color: white;
   font-family: Arial Black;
-  font-size: 15;
+  font-size: 18;
 }
 
 h2{
   color: orange;
   font-family: Verdana;
-  font-size: 14;
+  font-size: 16;
 }
 
 .read-more-btn {
@@ -57,7 +57,7 @@ h2{
     color: white;
     width: 100%;
     font-family: Century;
-    font-size: 12;
+    font-size: 14;
     display: flex;
     align-items: center;
     justify-content: center;
