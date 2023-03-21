@@ -9,10 +9,15 @@
 }
 
 h1 {
-  color: #4caf50;
-  color: orange;
+  olor: orange;
   font-family: Arial Black;
   font-size: 14;
+}
+
+h2{
+  color: #4caf50;
+  font-family: Verdana;
+  font-size: 13;
 }
 
 p {
@@ -50,26 +55,6 @@ p {
 
 .imagen{
     border: 2px solid black;
-    display: flex;
-    justify-content: center;
-    }
-
-.title{
-    color: blue;
-    width: 100%;
-    border: 2px solid black;
-    font-family: Arial Black;
-    font-size: 10;
-    display: flex;
-    justify-content: center;
-    }
-
-.titulos{
-    color: red;
-    width: 100%;
-    border: 2px solid black;
-    font-family: Century;
-    font-size: 9;
     display: flex;
     justify-content: center;
     }
