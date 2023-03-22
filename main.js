@@ -7,5 +7,11 @@ buttons.forEach((button, index) => {
     const textElement = textElements[index];
     textElement.classList.toggle('showText');
   });
+  if (hideText.classListcontains('show')) {
+    read-more-btn.innerHTML = 'Leer Menos';
+    }
+  else {
+    read-more-btn.innerHTML = 'Leer Mas';
+    }
 });
 
