@@ -8,3 +8,4 @@ buttons.forEach((button, index) => {
     textElement.classList.toggle('showText');
   });
 });
+
